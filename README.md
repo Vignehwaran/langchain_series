@@ -1,4 +1,4 @@
-# Anxiety Bot using LangChain & Groq API
+# Anxiety Management Bot using LangChain & Groq API
 
 ## Overview
 The **Anxiety Bot** is an AI-powered chatbot designed to help users manage anxiety by providing calming conversations, mindfulness techniques, and helpful resources. It leverages **LangChain** for efficient AI agent orchestration and **Groq API** for fast and cost-effective LLM-based responses.
